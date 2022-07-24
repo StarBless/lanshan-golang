@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println()
+	var s string
+	s = "Sd"
+	fmt.Println(s)
 }
